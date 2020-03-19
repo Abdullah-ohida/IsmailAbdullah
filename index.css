@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container {
+    background-image: url("/images/Piggy\ Pink.jpg");
+    padding: 1em;
+    min-height: 100vh;
+}
+
+header {
+    padding: 5em, 0, 0, 0;
+    font-size: 20px;
+    margin: 2em;
+}
+
+h1 {
+    text-align: center;
+    color: snow;
+    font-family: 'Courgette', cursive;
+    font-size: 4em;
+}
+
+header p {
+    padding: 0.4em 0;
+    color: rgb(52, 52, 56);
+}
+
+header strong {
+    font-family: 'Courgette', cursive;
+}
+
+.sub {
+    margin: 0 5em;
+}
+
+.sub p {
+    font-size: 20px;
+}
+
+ul {
+    padding: 1em 0;
+}
+
+li {
+    font-size: 15px;
+    font-weight: bolder;
+    font-family: 'Courgette', cursive;
+    list-style: inside;
+    color: rgb(52, 52, 56);
+    ;
+}
+
+em {
+    padding: 5em 2em;
+    font-family: 'Courgette', cursive;
+    font-size: 20px;
+    color: rgb(88, 48, 48);
+}
