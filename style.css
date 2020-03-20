@@ -6,7 +6,7 @@
 }
 
 .container {
-    background-image: url("/images/Piggy\ Pink.jpg");
+    background-image: url("./images/pink.jpg");
     padding: 1em;
     min-height: 100vh;
 }
